@@ -1,0 +1,15 @@
+1.)Why we use loops?
+Ans) Loops are important in Python or in any other programming language as they help you to execute a block of code repeatedly.
+2) what is while loop?
+ans) Python while loop is used to run a block code until a certain condition is met. The syntax of while loop is: while condition: # body of while loop. 
+Here, A while loop evaluates the condition. If the condition evaluates to True , the code inside the while loop is executed.
+3) what is iterator in loop?
+Ans) In Python, an iterator is an object that allows you to iterate over collections of data, such as lists, tuples, dictionaries, and sets. 
+Python iterators implement the iterator design pattern, which allows you to traverse a container and access its elements.
+4) what is increment in loop?
+Ans) In Python += is used for incrementing, and -= for decrementing. In some other languages, there is even a special syntax ++ and -- for incrementing or decrementing by 1. 
+Python does not have such a special syntax. To increment x by 1 you have to write x += 1 or x = x + 1 . 
+5) why we use range function?
+Ans) Necessity to Use Range() Function in Python:
+Whenever an action needs to be performed a certain number of times, then you must make use of range in Python to generate a sequence of numbers within a given range.
+ The range() function is used in loops like for loop, while loop etc. to iterate through the sequences.
